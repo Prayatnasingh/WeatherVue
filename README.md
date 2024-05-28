@@ -1,2 +1,2 @@
-# WeatherVue
-WeatherVue is a Cutting-edge weather application designed to provide users with real-time weather updates and forecasts in an intuitive and visually appealing interface.
+# WeatherVue App
+ WeatherVue is a cutting-edge weather application designed to provide users with real-time weather updates and forecasts in an intutivw and visually appealling interface.
